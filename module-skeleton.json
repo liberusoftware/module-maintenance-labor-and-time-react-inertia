@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-labor-and-time-react-inertia",
+  "capabilityKey": "liberusoftware/module-maintenance-labor-and-time",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-maintenance-labor-and-time-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/maintenance/nextjs/labor-and-time.md",
+  "presentationPlan": "projects/maintenance/react/labor-and-time.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
